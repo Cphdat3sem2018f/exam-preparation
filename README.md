@@ -2,7 +2,7 @@
 
 - [Thread Programming](https://docs.google.com/document/d/13f18buNu2WgTocikJ2Quj6TaetkujWouRCaibq2VCu8/edit?usp=sharing)
 
-Tråde dækkede vi i uge-1 = Lang_tid_siden. Det vil derfor være en rigtig god ide, også at tage et blike på de almindelige dagsopgaver:
+Tråde dækkede vi i uge-1 = Lang_tid_siden. Det vil derfor være en rigtig god ide, også at tage et blik på de almindelige dagsopgaver:
  [Threads-Day1](https://docs.google.com/document/d/18yLXuhqoEAUFCDjX_GvldTpkJhXPhMtB92q3AN9JL90/edit?usp=sharing) ,  [Threads-Day2](https://docs.google.com/document/d/1wfhJVtA_1-UkiTVNk1Bu6JVx8Jfd2MT614t39RjW3Fo/edit?usp=sharing)
 - [Object Relational Mapping with JPA](https://docs.google.com/document/d/1rP3j65GnnTYRfmP2W8wvrmYzh4slTYlVjWuzCEblk4Y/edit?usp=sharing)
 - [ORM + JPQL](https://docs.google.com/document/d/1_VTXe7jyveTYSxvfqMubRiEe-1xioaNEBDAg-0IhV5s/edit?usp=sharing)

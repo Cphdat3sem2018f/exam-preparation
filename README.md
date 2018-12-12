@@ -9,7 +9,7 @@
 - [REST and REST APIs](https://docs.google.com/document/d/1RW1vKJTwN3ARn6MGeEk0ZrJsDPNMONgj9MFyVpAxdBs/edit?usp=sharing)
 - [REST and JSON](https://docs.google.com/document/d/1OJX6RgY_prrtgkhOKHQLoQcHbyOJptE3GTGruUV0oE8/edit)
 - [React, State and Fetch](https://docs.google.com/document/d/1LBQEykWMhOOWT-3HM3dg7wbr76DA2oFumrKDI2db_9E/edit?usp=sharing)
-- [Asynchronous API Interaction using fetch (not an Exam-prep, but RELEVANT)](https://docs.google.com/document/d/1Yv7bXR6ZgL_ZXJWvzawmTVD3tN42rJktulqxhGV-HuE/edit?usp=sharing=
+- [Asynchronous API Interaction using fetch ](https://docs.google.com/document/d/1Yv7bXR6ZgL_ZXJWvzawmTVD3tN42rJktulqxhGV-HuE/edit?usp=sharing=) (Not an Exam-prep, but RELEVANT)
 - [React with Routing](https://docs.google.com/document/d/1d9G3q3zMunavnAyzihIvJEosnIvBsPsgUwir6X_4ByE/edit?usp=sharing)
 - [React and routing](https://docs.google.com/document/d/1Vqitnlc6pNPfJS-HNLyAqESBVyvduJy1mivLF-pU1dA/edit?usp=sharing)
 - [Using your own start code --> take a look at the last page (appendix) in CA3](https://docs.google.com/document/d/1GZvVK-dGHjyP30BULhtRz9EFYd9MOzdtChoV6X_mRnQ/edit?usp=sharing)
